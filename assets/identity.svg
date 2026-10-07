@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="330" height="300" viewBox="0 0 330 300" role="img" aria-labelledby="title desc">
+  <title id="title">Lucas Camy</title>
+  <desc id="desc">Monograma LC em uma janela de terminal, revelado linha por linha.</desc>
+  <rect width="330" height="300" rx="16" fill="#0b1220"/>
+  <rect x="1" y="1" width="328" height="298" rx="15" fill="none" stroke="#273449" stroke-width="2"/>
+  <circle cx="23" cy="25" r="5" fill="#fb7185"/><circle cx="41" cy="25" r="5" fill="#fbbf24"/><circle cx="59" cy="25" r="5" fill="#34d399"/>
+  <text x="165" y="29" text-anchor="middle" fill="#92a4bf" font-family="Consolas,monospace" font-size="11">lucas@github: ~</text>
+  <path d="M0 47H330" stroke="#273449"/>
+  <g fill="#5eead4" font-family="Consolas,monospace" font-size="19" font-weight="700" xml:space="preserve">
+    <text x="37" y="92" opacity="0">██       ██████<animate attributeName="opacity" from="0" to="1" begin="0.1s" dur="0.15s" fill="freeze"/></text>
+    <text x="37" y="116" opacity="0">██      ██<animate attributeName="opacity" from="0" to="1" begin="0.26s" dur="0.15s" fill="freeze"/></text>
+    <text x="37" y="140" opacity="0">██      ██<animate attributeName="opacity" from="0" to="1" begin="0.42s" dur="0.15s" fill="freeze"/></text>
+    <text x="37" y="164" opacity="0">██      ██<animate attributeName="opacity" from="0" to="1" begin="0.58s" dur="0.15s" fill="freeze"/></text>
+    <text x="37" y="188" opacity="0">██      ██<animate attributeName="opacity" from="0" to="1" begin="0.74s" dur="0.15s" fill="freeze"/></text>
+    <text x="37" y="212" opacity="0">███████  ██████<animate attributeName="opacity" from="0" to="1" begin="0.9s" dur="0.15s" fill="freeze"/></text>
+  </g>
+  <path d="M24 237H306" stroke="#273449"/>
+  <text x="24" y="263" fill="#a78bfa" font-family="Consolas,monospace" font-size="12">&gt; construir com intenção</text>
+  <rect x="219" y="251" width="7" height="14" fill="#5eead4" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.1s" dur="0.1s" fill="freeze"/></rect>
+</svg>

@@ -24,3 +24,5 @@ Grande parte do meu trabalho acontece em repositórios privados. Um exemplo púb
 </div>
 
 <sub>O gráfico mostra apenas contribuições públicas visíveis no GitHub e é atualizado automaticamente. O trabalho em repositórios privados pode não aparecer nele.</sub>
+
+<sub>Visual inspirado no [perfil animado de Avi Vashishta](https://www.avivashishta.com/blog/build-animated-github-profile-readme).</sub>

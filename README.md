@@ -2,8 +2,8 @@
 
 ### `lucas@github ~ $ whoami`
 
-<img src="./assets/identity.svg" alt="Monograma LC animado em uma janela de terminal" width="330" />
-<img src="./assets/about.svg" alt="Lucas Camy: desenvolvedor full stack; TypeScript, React, C#, ASP.NET Core e PostgreSQL" width="530" />
+<img src="./assets/identity.svg" alt="Monograma LC animado em uma janela de terminal" width="275" />
+<img src="./assets/about.svg" alt="Lucas Camy: desenvolvedor full stack; TypeScript, React, C#, ASP.NET Core e PostgreSQL" width="455" />
 
 </div>
 

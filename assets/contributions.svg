@@ -4,7 +4,7 @@
   <rect width="860" height="205" rx="16" fill="#0b1220"/>
   <rect x="1" y="1" width="858" height="203" rx="15" fill="none" stroke="#273449" stroke-width="2"/>
   <text x="24" y="31" fill="#5eead4" font-family="Consolas,monospace" font-size="14" font-weight="700">atividade pública</text>
-  <text x="836" y="31" text-anchor="end" fill="#92a4bf" font-family="Consolas,monospace" font-size="12">4 contribuições / 12 meses</text>
+  <text x="836" y="31" text-anchor="end" fill="#92a4bf" font-family="Consolas,monospace" font-size="12">5 contribuições / 12 meses</text>
   <path d="M24 43H836" stroke="#273449"/>
   <g fill="#92a4bf" font-family="Consolas,monospace" font-size="10">
     <text x="52.0" y="63">out</text>
